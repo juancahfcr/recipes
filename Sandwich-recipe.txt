@@ -1,0 +1,15 @@
+Ingredients:
+ - 2 slices of bread
+ - 1 slice of tomatoe
+ - 1 slice of turkey breast
+ - 1 slice of cheese (provologne)
+ - 1 teaspoon ketchup
+
+Directions:
+ 1. Put one slice of bread
+ 2. Add slice turkey breast
+ 3. Add slice of cheese
+ 4. Add slice of tomatoe
+ 5. Add teaspoon ketchup
+ 6. Add the other slice of bread on top
+ 7. Enjoy!
